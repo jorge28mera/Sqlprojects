@@ -62,3 +62,6 @@ The tables produced from my query are as follows:
 3) goals scored vs conceded
 4) group of death
 5) quality of possession
+
+**TABLEAU DASHBOARD:** 
+https://public.tableau.com/views/Fifav1/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
