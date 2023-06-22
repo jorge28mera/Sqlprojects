@@ -41,3 +41,24 @@ To refer to the specific analysis and its corresponding data, please make use of
 such as the teams involved, match dates, and final scores.
 3) Stats.csv: This document encompasses various statistical measures related to the teams' performances, 
 including goals scored, goals conceded, possession statistics, and other relevant metrics.
+
+**Other tables**
+
+To gain a comprehensive understanding of my MySQL analysis on the FIFA World Cup 2022 data, 
+please refer to the MySQL file titled FIFA.sql. This file provides a step-by-step walkthrough of my analysis. 
+
+The FIFA.sql file is divided into two sections:
+
+Data Cleansing and Formatting: In this section, I focused on cleaning and formatting the data. 
+I performed tasks such as creating standardized columns and addressing any anomalies present in the dataset. 
+In addition, I created foreign and primary relations between the tables to ensure data consistency and accuracy, 
+I set the foundation for reliable analysis.
+
+Query Execution: The second section of the file involves running queries based on the four key components discussed earlier. 
+These components were identified to understand the dominance of the winning team, Argentina. 
+The tables produced from my query are as follows:
+1) Offensive teams
+2) defensive teams
+3) goals scored vs conceded
+4) group of death
+5) quality of possession
