@@ -64,4 +64,3 @@ The tables produced from my query are as follows:
 5) quality of possession
 
 **TABLEAU DASHBOARD:** 
-https://public.tableau.com/app/profile/jorge.mera/viz/FIFAv3/Dashboard1
